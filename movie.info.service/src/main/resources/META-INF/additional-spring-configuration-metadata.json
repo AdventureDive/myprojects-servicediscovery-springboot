@@ -1,0 +1,7 @@
+{"properties": [
+  {
+    "name": "movieDB.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'movieDB.api.key'"
+  }
+]}
